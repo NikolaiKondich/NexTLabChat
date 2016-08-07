@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Nikolai Kondich" APIVersion="12" Name="NexTLabChat" Description="">
+    <Script Name="ChatLog.lua"/>
+    <Form Name="ChatLog.xml"/>
+    <ReplaceAddon Name="ChatLog"/>
+</Addon>
